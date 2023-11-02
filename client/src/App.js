@@ -64,15 +64,15 @@ function App() {
     <div className="container">
       <Header />
       <div className="content">
-      <GoalsCreation onAdd={addSpecificGoal} />
+      <GoalsCreation adding={addSpecificGoal} />
       {notes.map((goalItem, index) => {
         return (
           <Goal
             key={index}
             id={index}
-            title={goalItem.title}
-            content={goalItem.content}
-            onDelete={deleteSpecificGoal}
+            title={goalItem.titleOfGoal}
+            content={goalItem.contentOfGoal}
+            deleting={deleteSpecificGoal}
           />
         );
       })}
