@@ -11,8 +11,6 @@
 - [Dependencies](#dependencies)
   - [Server](#server)
   - [Client](#client)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
   
 ## Overview
