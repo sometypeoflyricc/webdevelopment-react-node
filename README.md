@@ -1,5 +1,20 @@
 # webdevelopment-react-node
 
+## Table of Contents
+- [Overview](#overview)
+- [Requirements](#requirements)
+- [Setting Up](#setting-up)
+  - [Clone the Repository](#1-clone-the-repository)
+  - [Change to the Project Directory](#2-change-to-the-project-directory)
+  - [Install Dependencies](#3-install-dependencies)
+  - [Start Server](#4-start-server)
+- [Dependencies](#dependencies)
+  - [Server](#server)
+  - [Client](#client)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+  
 ## Overview
 This repository contains the source code for a goal planning web application. 
 Application is intended to function as a virtual notepad to assist users in setting and managing objectives, 
@@ -30,4 +45,4 @@ CORS
 React
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
